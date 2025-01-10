@@ -7,4 +7,7 @@
 
 <h4 align="center">launch</h4>
 
-
+* ![metasploitable2 backdoor | vsftpd v2.3.4](https://github.com/hellcard/100-days-cyber-security/tree/main/metasploitable2-backdoor) - backdoor, in order to get into the system and download the reverse shell
+* ![kali tab-2](https://github.com/hellcard/multi-client-bot-server/blob/main/kali/tab-2.sh) - starting the server to download the reverse shell
+* ![kali tab-3](https://github.com/hellcard/multi-client-bot-server/blob/main/kali/tab-3.sh) - launching a multi-client bot server
+* ![kali tab-1](https://github.com/hellcard/multi-client-bot-server/blob/main/kali/tab-1.sh) - downloading and running the reverse shell
