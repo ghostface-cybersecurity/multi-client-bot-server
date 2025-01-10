@@ -11,3 +11,5 @@
 * ![kali tab-2](https://github.com/hellcard/multi-client-bot-server/blob/main/kali/tab-2.sh) - starting the server to download the reverse shell
 * ![kali tab-3](https://github.com/hellcard/multi-client-bot-server/blob/main/kali/tab-3.sh) - launching a multi-client bot server
 * ![kali tab-1](https://github.com/hellcard/multi-client-bot-server/blob/main/kali/tab-1.sh) - downloading and running the reverse shell
+
+### !! the reverse shell does not execute commands, but outputs them to the terminal of the victim’s computer !!
