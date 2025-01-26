@@ -41,7 +41,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________
                                     LEGAL STATEMENT
 _______________________________________________________________________________________
-By downloading, modifying, redistributing, and/or executing NetX, the
+By downloading, modifying, redistributing, and/or executing multiclient-bot-server, the
 user agrees to the contained LEGAL.txt statement found in this repository.
 
 I, ghostface-cybersecurity, the creator, take no legal responsibility for unlawful actions
