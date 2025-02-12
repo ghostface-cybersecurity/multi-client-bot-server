@@ -24,7 +24,7 @@ Description: Reads commands from a file and sends them to the reverse shell,
 Program: Multiclient-bot-server
 Language: Python 3.12.7
 Tested on: Linux 6.11.2
-Author: ghostface-cybersecurity
+Author: scarlet-oni
 
 ________________________________________________________________________________________
                                     PROGRAM LAUNCH
@@ -44,7 +44,7 @@ ________________________________________________________________________________
 By downloading, modifying, redistributing, and/or executing multiclient-bot-server, the
 user agrees to the contained LEGAL.txt statement found in this repository.
 
-I, ghostface-cybersecurity, the creator, take no legal responsibility for unlawful actions
+I, scarlet-oni, the creator, take no legal responsibility for unlawful actions
 caused/stemming from this program. 
 
 Use responsibly and ethically!
